@@ -1,0 +1,335 @@
+[
+    [
+        "c:\\Users\\Emer\\Salesforce\\TestSFDX\\force-app",
+        {
+            "sourcePath": "c:\\Users\\Emer\\Salesforce\\TestSFDX\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1512861366253,
+            "changeTime": 1512861366253,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "c:\\Users\\Emer\\Salesforce\\TestSFDX\\force-app\\main",
+        {
+            "sourcePath": "c:\\Users\\Emer\\Salesforce\\TestSFDX\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1512861366253,
+            "changeTime": 1512861366253,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\Emer\\Salesforce\\TestSFDX\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\Emer\\Salesforce\\TestSFDX\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1513006991599,
+            "changeTime": 1513006991599,
+            "contentHash": "e9cd9e2eba68b125377f7b10cd1f4ad86d88e9cd"
+        }
+    ],
+    [
+        "c:\\Users\\Emer\\Salesforce\\TestSFDX\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "c:\\Users\\Emer\\Salesforce\\TestSFDX\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1512861366254,
+            "changeTime": 1512861366254,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\Emer\\Salesforce\\TestSFDX",
+        {
+            "sourcePath": "c:\\Users\\Emer\\Salesforce\\TestSFDX",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1513006216330,
+            "changeTime": 1513006216330,
+            "contentHash": "02e1a6dad0a727b5e80fa7ac9c3aef5c1668320d",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\Emer\\Salesforce\\TestSFDX\\force-app\\main\\default\\objects\\Equipment__c\\Equipment__c.object-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\Emer\\Salesforce\\TestSFDX\\force-app\\main\\default\\objects\\Equipment__c\\Equipment__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2317,
+            "modifiedTime": 1513006842617,
+            "changeTime": 1513006842617,
+            "contentHash": "0bc9412b6d7876d68ef62e999c97c9423390fbf9",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\Emer\\Salesforce\\TestSFDX\\force-app\\main\\default\\layouts\\Equipment__c-Aerial Equipment Layout.layout-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\Emer\\Salesforce\\TestSFDX\\force-app\\main\\default\\layouts\\Equipment__c-Aerial Equipment Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 2785,
+            "modifiedTime": 1513006842656,
+            "changeTime": 1513006842656,
+            "contentHash": "7c5407dcccf3e78f29f0770137a9b30772b7c56d",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\Emer\\Salesforce\\TestSFDX\\force-app\\main\\default\\tabs\\Equipment__c.tab-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\Emer\\Salesforce\\TestSFDX\\force-app\\main\\default\\tabs\\Equipment__c.tab-meta.xml",
+            "isDirectory": false,
+            "size": 225,
+            "modifiedTime": 1513006570540,
+            "changeTime": 1513006570540,
+            "contentHash": "ddeae5eadbf9e422cad0188d1418fd25bc244096",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\Emer\\Salesforce\\TestSFDX\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\Emer\\Salesforce\\TestSFDX\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "size": 17363,
+            "modifiedTime": 1513006570578,
+            "changeTime": 1513006570578,
+            "contentHash": "c9e12698c27ef89236acc390b0da8d24649d1701",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\Emer\\Salesforce\\TestSFDX\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\Emer\\Salesforce\\TestSFDX\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4668,
+            "modifiedTime": 1513006570587,
+            "changeTime": 1513006570587,
+            "contentHash": "4175f43adc4ccec20e3e013a76fee84792ebdfc6",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\Emer\\Salesforce\\TestSFDX\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\Emer\\Salesforce\\TestSFDX\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4330,
+            "modifiedTime": 1513006570597,
+            "changeTime": 1513006570597,
+            "contentHash": "960d66e21855867aa196fd47e4d8bffc83192fba",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\Emer\\Salesforce\\TestSFDX\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\Emer\\Salesforce\\TestSFDX\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4330,
+            "modifiedTime": 1513006570605,
+            "changeTime": 1513006570605,
+            "contentHash": "960d66e21855867aa196fd47e4d8bffc83192fba",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\Emer\\Salesforce\\TestSFDX\\force-app\\main\\default\\objects\\Equipment__c",
+        {
+            "sourcePath": "c:\\Users\\Emer\\Salesforce\\TestSFDX\\force-app\\main\\default\\objects\\Equipment__c",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1513006842620,
+            "changeTime": 1513006842620,
+            "contentHash": "55a9e46ab90864e913c9b34e16bcf800142bd760",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\Emer\\Salesforce\\TestSFDX\\force-app\\main\\default\\objects",
+        {
+            "sourcePath": "c:\\Users\\Emer\\Salesforce\\TestSFDX\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1513006570520,
+            "changeTime": 1513006570520,
+            "contentHash": "6578401bce304fca5a99209fa3c086455e5d9628",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\Emer\\Salesforce\\TestSFDX\\force-app\\main\\default\\layouts",
+        {
+            "sourcePath": "c:\\Users\\Emer\\Salesforce\\TestSFDX\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1513006570534,
+            "changeTime": 1513006570534,
+            "contentHash": "91388a48383f42b2fdebf7ed9cfeefc59bc77fe5",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\Emer\\Salesforce\\TestSFDX\\force-app\\main\\default\\tabs",
+        {
+            "sourcePath": "c:\\Users\\Emer\\Salesforce\\TestSFDX\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1513006570539,
+            "changeTime": 1513006570539,
+            "contentHash": "39c62f05aa66a97fd93303010949684e77accd3a",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\Emer\\Salesforce\\TestSFDX\\force-app\\main\\default\\profiles",
+        {
+            "sourcePath": "c:\\Users\\Emer\\Salesforce\\TestSFDX\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1513006570604,
+            "changeTime": 1513006570604,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\Emer\\Salesforce\\TestSFDX\\force-app\\main\\default\\objects\\Equipment__c\\compactLayouts\\Equipment_Compact_Layout.compactLayout-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\Emer\\Salesforce\\TestSFDX\\force-app\\main\\default\\objects\\Equipment__c\\compactLayouts\\Equipment_Compact_Layout.compactLayout-meta.xml",
+            "isDirectory": false,
+            "size": 332,
+            "modifiedTime": 1513006842620,
+            "changeTime": 1513006842620,
+            "contentHash": "98c306ba4e4e866f1d0ffa19f86b9f4a9265d027",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\Emer\\Salesforce\\TestSFDX\\force-app\\main\\default\\objects\\Equipment__c\\fields\\Business__c.field-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\Emer\\Salesforce\\TestSFDX\\force-app\\main\\default\\objects\\Equipment__c\\fields\\Business__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 646,
+            "modifiedTime": 1513006842623,
+            "changeTime": 1513006842623,
+            "contentHash": "fca4dc536e736ed66b68ade575e3c5bcde000894",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\Emer\\Salesforce\\TestSFDX\\force-app\\main\\default\\objects\\Equipment__c\\fields\\Make__c.field-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\Emer\\Salesforce\\TestSFDX\\force-app\\main\\default\\objects\\Equipment__c\\fields\\Make__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 392,
+            "modifiedTime": 1513006842625,
+            "changeTime": 1513006842625,
+            "contentHash": "ef604252037af557f83c21e1e9de725073d65863",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\Emer\\Salesforce\\TestSFDX\\force-app\\main\\default\\objects\\Equipment__c\\fields\\Model__c.field-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\Emer\\Salesforce\\TestSFDX\\force-app\\main\\default\\objects\\Equipment__c\\fields\\Model__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 394,
+            "modifiedTime": 1513006842627,
+            "changeTime": 1513006842627,
+            "contentHash": "d55b2e05cf1965ffcbd22706ba6e278a911e6413",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\Emer\\Salesforce\\TestSFDX\\force-app\\main\\default\\objects\\Equipment__c\\compactLayouts",
+        {
+            "sourcePath": "c:\\Users\\Emer\\Salesforce\\TestSFDX\\force-app\\main\\default\\objects\\Equipment__c\\compactLayouts",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1513006842619,
+            "changeTime": 1513006842619,
+            "contentHash": "6685ff9ab4e5ab43f8493a5776ee1247e2e42f96",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\Emer\\Salesforce\\TestSFDX\\force-app\\main\\default\\objects\\Equipment__c\\fields",
+        {
+            "sourcePath": "c:\\Users\\Emer\\Salesforce\\TestSFDX\\force-app\\main\\default\\objects\\Equipment__c\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1513006842626,
+            "changeTime": 1513006842626,
+            "contentHash": "ec099b07d158db012380d551575e267ac323760e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\Emer\\Salesforce\\TestSFDX\\force-app\\main\\default\\permissionsets\\Application_Access.permissionset-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\Emer\\Salesforce\\TestSFDX\\force-app\\main\\default\\permissionsets\\Application_Access.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1316,
+            "modifiedTime": 1513006991605,
+            "changeTime": 1513006991605,
+            "contentHash": "3f08db86d5c2f868dd555c3f3428a4bf4376c737"
+        }
+    ],
+    [
+        "c:\\Users\\Emer\\Salesforce\\TestSFDX\\force-app\\main\\default\\permissionsets",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\Emer\\Salesforce\\TestSFDX\\force-app\\main\\default\\permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1513006991603,
+            "changeTime": 1513006991603,
+            "contentHash": "7ae230ef7a388f70f20a6771751c2d0cc3d822e4"
+        }
+    ]
+]
